@@ -1,3 +1,4 @@
 # Ignorar arquivos desnecessários
-_pycache_/
+__pycache__/
 *.pyc
+
